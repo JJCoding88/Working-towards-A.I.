@@ -1,0 +1,12 @@
+I am looking to take a program and be able to automatically sent a reply email with a special form for the sender to fill out and submit back, where the submit button
+is going to send to a new email address, that email form will take that information from the form and create a pdf file with specific name pulled from the form...
+The save place will be saved inside of a new directory created for that specific file. I want to have that directory be able to get any information that is sent about 
+that name/number and create a new file with the name/number1, 2, 3, 4 and on and on. I want the folder to automatically combine the files at the end of a work day.
+The combined files will be saved as the original name/number . pdf and can then be sent to another application that will index the document for online storage to get 
+away from us needing paper files, or having to use scanners. ultimatley saving money and time!!! any help or advice on this project would be great, I still am learning 
+coding on my own through codeacademy and just using some youtube here and there... so again any help is greatly appriciated however I also want to be able to learn 
+from this, so advice given in a way to where I can type the code in and maybe just help with the functions would be great, if you are not able/willing to do that
+then I will take a code that I just copy that is fine, I will learn from seeing how it works.
+
+                              THANK YOU,
+                                Jeff
